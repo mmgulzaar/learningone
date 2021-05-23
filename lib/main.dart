@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
+import "package:google_fonts/google_fonts.dart";
 import 'package:learning_one/pages/home_page.dart';
 import 'package:learning_one/pages/login_page.dart';
 import 'package:learning_one/utils/routes.dart';
